@@ -1,4 +1,4 @@
-public class String_Module {
+public class StringModule {
     public static void main(String[] args) {
         /* Strings in Java are not primitive types (like int, char, etc). Instead, all strings are objects of a predefined class named String.
         And all string variables are instances of the String class. */
@@ -44,11 +44,5 @@ public class String_Module {
         String example = new String("Java");
         Here, the value of the string is not directly provided. Hence, a new "Java" 
         string is created even though "Java" is already present inside the memory pool. */
-
-        
-
-
-
-        
     }
 }
